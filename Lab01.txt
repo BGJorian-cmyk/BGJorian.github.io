@@ -18,6 +18,6 @@ yourself. Follow the instructions in README.md to turn it in.</p>
 
     <p> I am a second year majoring in game design</p>
 
-    <p> I hope to help make videogames in the future. Bye bye!</p>
+    <p> I hope to help make videogames in the future. Bye have a good one!</p>
 </body>
 </html>
